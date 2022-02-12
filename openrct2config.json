@@ -1,0 +1,28 @@
+[
+    {
+        "DisplayName": "Save File",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "SaveFile",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "SaveFile",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Data Path",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "DataPath",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "DataPath",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "serverdata",
+        "EnumValues": {}
+    }
+]
